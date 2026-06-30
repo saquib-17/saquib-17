@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Saquib Ansari.<br><br>💻 Aspiring Software Developer<br>🌱 Learning Java, Full Stack Development, and AI<br>🚀 Passionate about building real-world projects<br>📚 Always learning and improving every day
+Hi 👋, I'm Mohammed Saquib Ansari.<br><br>💻 Aspiring Software Developer<br>🌱 Learning Java, Full Stack Development, and AI<br>🚀 Passionate about building real-world projects<br>📚 Always learning and improving every day
 
 
 ## 🌐 Socials:
