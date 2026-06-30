@@ -12,10 +12,7 @@ Hi 👋, I'm Saquib Ansari.<br><br>💻 Aspiring Software Developer<br>🌱 Lear
 ![](https://streak-stats.demolab.com/?user=saquib-17&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=saquib-17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saquib-17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=saquib-17&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
